@@ -95,7 +95,7 @@ namespace ConsoleApp8
         }
 
     }
-    class assclasses
+    class class1
     { 
         static void Main()
         {
